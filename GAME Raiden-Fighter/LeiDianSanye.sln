@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeiDianSanye", "LeiDianSanye.csproj", "{EF9031A1-E1BB-0620-34E8-5B228A38F479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeiDianSanye.Plugins", "LeiDianSanye.Plugins.csproj", "{EC19655C-B056-F37C-9ACD-D3AE9FEFD940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeiDianSanye.Editor", "LeiDianSanye.Editor.csproj", "{5C9CC378-87BB-A096-FF8A-C1979BCCBB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9031A1-E1BB-0620-34E8-5B228A38F479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9031A1-E1BB-0620-34E8-5B228A38F479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9031A1-E1BB-0620-34E8-5B228A38F479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9031A1-E1BB-0620-34E8-5B228A38F479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC19655C-B056-F37C-9ACD-D3AE9FEFD940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC19655C-B056-F37C-9ACD-D3AE9FEFD940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC19655C-B056-F37C-9ACD-D3AE9FEFD940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC19655C-B056-F37C-9ACD-D3AE9FEFD940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9CC378-87BB-A096-FF8A-C1979BCCBB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9CC378-87BB-A096-FF8A-C1979BCCBB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9CC378-87BB-A096-FF8A-C1979BCCBB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9CC378-87BB-A096-FF8A-C1979BCCBB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

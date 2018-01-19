@@ -1,0 +1,47 @@
+﻿{
+    "GoodList": [
+        {
+            "GoodsName": "雷电1号",
+            "ID":"全能型飞机作战能力强",
+            "PicName": "001",
+            "Count": "1000宝石",
+            "GoodsNameOne": "必杀技能",
+            "IDOne":"对屏幕的所有敌机进行击杀",
+            "PicNameOne": "21",
+            "CountOne": "500宝石",
+            "GoodsNameTwo": "雷火战神",
+            "IDTwo":"升成此机攻击+50%,经验+20%，宝石+10% ",
+            "PicNameTwo": "89",
+            "CountTwo": "100000宝石"
+        },
+        {
+            "GoodsName": "雷电2号",
+            "ID": "跟踪型飞机智能跟踪目标",
+            "PicName": "002",
+            "Count":"1800宝石",
+            "GoodsNameOne": "全能护盾",
+            "IDOne": "可以抵抗一次伤害",
+            "PicNameOne": "22",
+            "CountOne":"300宝石",
+            "GoodsNameTwo": "魅影",
+            "IDTwo": "升成此机攻击+80%，经验+20%,宝石+10%，速度+10%",
+            "PicNameTwo": "90",
+            "CountTwo":"500000宝石"
+        },
+        {
+            "GoodsName": "雷电3号",
+            "ID":"激光型飞机火力输出强劲",
+            "PicName": "003",
+            "Count":"2600宝石",          
+            "GoodsNameOne": "生命1号",
+            "IDOne":"可以使自己生命+1",
+            "PicNameOne": "20",
+            "CountOne":"1000宝石",
+            "GoodsNameTwo": "毁灭",
+            "IDTwo":"升成此机攻击+100%,经验+30%，宝石+30%，速度+20%",
+            "PicNameTwo": "88",
+            "CountTwo":"1000000宝石"
+        }
+        
+    ]
+}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/LeiDian.unity
+    guid: d80d6f9a33b196c459e5aae8fc22da0f
+  - enabled: 1
+    path: Assets/ZhanJi.unity
+    guid: d9e892e6c0452ff479134a52a4218f53
+  - enabled: 1
+    path: Assets/DengLu.unity
+    guid: 5490bb7ae571f3448b2ebf5e9df6c05a
